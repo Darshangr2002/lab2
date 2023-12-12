@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello, good afternoon
+=======
+hiii
+>>>>>>> b2
